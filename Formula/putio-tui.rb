@@ -3,7 +3,7 @@ class PutioTui < Formula
 
   desc "Terminal UI client for put.io"
   homepage "https://github.com/hafifuyku/putio-tui"
-  url "https://github.com/hafifuyku/putio-tui.git", tag: "v0.2.0"
+  url "https://github.com/hafifuyku/putio-tui.git", tag: "v0.3.0"
   license "MIT"
   head "https://github.com/hafifuyku/putio-tui.git", branch: "main"
 
