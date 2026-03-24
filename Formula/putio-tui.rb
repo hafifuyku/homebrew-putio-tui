@@ -3,8 +3,8 @@ class PutioTui < Formula
 
   desc "Terminal UI client for put.io"
   homepage "https://github.com/hafifuyku/putio-tui"
-  url "https://github.com/hafifuyku/putio-tui.git", tag: "v0.3.5"
-  version "0.3.5"
+  url "https://github.com/hafifuyku/putio-tui.git", tag: "v0.3.6"
+  version "0.3.6"
   license "MIT"
 
   depends_on "python@3.13"
